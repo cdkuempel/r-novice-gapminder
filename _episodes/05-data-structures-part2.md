@@ -7,12 +7,12 @@ exercises: 10
 questions:
 - "How can I manipulate a data frame?"
 objectives:
-- "Add and remove rows or columns."
+- "Create and remove rows or columns."
 - "Remove rows with `NA` values."
 - "Append two data frames."
 - "Understand what a `factor` is."
 - "Convert a `factor` to a `character` vector and vice versa."
-- "Display basic properties of data frames including size and class of the columns, names, and first few rows."
+- "Evaluate basic properties of data frames including size and class of the columns, names, and first few rows."
 keypoints:
 - "Use `cbind()` to add a new column to a data frame."
 - "Use `rbind()` to add a new row to a data frame."
