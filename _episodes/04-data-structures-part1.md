@@ -9,9 +9,10 @@ questions:
 - "What are the basic data types in R?"
 - "How do I represent categorical information in R?"
 objectives:
-- "To be aware of the different types of data."
-- "To begin exploring data frames, and understand how they are related to vectors, factors and lists."
-- "To be able to ask questions from R about the type, class, and structure of an object."
+- "Create and work with the five main types of data (double, integer, complex, logical and character)"
+- "Create and modify vectors, lists, matrices and data frames"
+- "Understand the roles that vectors, factors and lists play within data frames"
+- "Access information directly in R about the type, class and structure of an object
 keypoints:
 - "Use `read.csv` to read tabular data in R."
 - "The basic data types in R are double, integer, complex, logical, and character."
